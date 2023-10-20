@@ -59,6 +59,35 @@ $ python -u tictactoe.py
 ```
 <br>
 
+## UNTUK GAME ULAR NOKIA
+<p>Windows</p>
+
+<p>Input Pada Gamenya</p>
+<p>Tombol 'W' untuk ke Atas</p>
+<p>Tombol 'S' untuk ke Bawah</p>
+<p>Tombol 'A' untuk ke Kiri</p>
+<p>Tombol 'D' untuk ke Kanan</p>
+
+```
+Run Nya bisa di klik 2 kali di ular-nokia.py
+Atau command melalui CMD/Command Prompt
+$ python -u ular-nokia.py
+```
+<p>Debian/Linux</p>
+
+<p>Input Pada Gamenya</p>
+<p>Tombol 'W' untuk ke Atas</p>
+<p>Tombol 'S' untuk ke Bawah</p>
+<p>Tombol 'A' untuk ke Kiri</p>
+<p>Tombol 'D' untuk ke Kanan</p>
+
+```
+Command melalui CMD/Command Prompt
+$ cd GameSederhana
+$ python -u ular-nokia.py
+```
+
+
 ## License
 
 [MIT license](LICENSE)
