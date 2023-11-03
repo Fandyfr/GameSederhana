@@ -1,6 +1,7 @@
 ###
+# Tanggal Dibuat: 18/08/2023
+# Author: FandyFr
 # APP Version: v0.1
-# Buatan Fandy Fathurrohman
 ###
 
 import os
