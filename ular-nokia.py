@@ -1,7 +1,7 @@
 ###
 # Tanggal Dibuat: 11/10/2023
 # Author: FandyFr
-# APP Version: v1.5
+# APP Version: v1.6
 ###
 
 from tkinter import font
